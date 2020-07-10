@@ -1,2 +1,1 @@
-# Dynamic-Instruction-Scheduling
-Branch Prediction
+# Branch Prediction
